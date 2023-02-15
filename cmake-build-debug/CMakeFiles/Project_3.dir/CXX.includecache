@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/john/CLionProjects/Project 3/AVLTree.h
+memory
+-
+
+C:/Users/john/CLionProjects/Project 3/BinarySearchTree.h
+memory
+-
+
+C:/Users/john/CLionProjects/Project 3/RottenTomatoes.h
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+iomanip
+-
+
+C:/Users/john/CLionProjects/Project 3/SplayTree.h
+
+C:/Users/john/CLionProjects/Project 3/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+RottenTomatoes.h
+C:/Users/john/CLionProjects/Project 3/RottenTomatoes.h
+BinarySearchTree.h
+C:/Users/john/CLionProjects/Project 3/BinarySearchTree.h
+AVLTree.h
+C:/Users/john/CLionProjects/Project 3/AVLTree.h
+SplayTree.h
+C:/Users/john/CLionProjects/Project 3/SplayTree.h
+
